@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="dispatcher:war">
-    <output-path>$PROJECT_DIR$/target</output-path>
-    <root id="archive" name="jeesite_org-1.2.7.war">
-      <element id="artifact" artifact-name="dispatcher:war exploded" />
-    </root>
-  </artifact>
-</component>
